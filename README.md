@@ -1,3 +1,3 @@
 # Kostky
 
-Show public function http://lukashuvar.borec.cz/Projects/Kostky/index.html
+Aroll dice, where is number,  randomly generate of system
